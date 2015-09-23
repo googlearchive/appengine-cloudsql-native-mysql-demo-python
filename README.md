@@ -1,3 +1,7 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This sample has been moved into [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples).
+
 This is an example program showing how to use the native MySQL connections from Google App Engine to Google Cloud SQL.
 
 ## Deploying
